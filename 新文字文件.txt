@@ -1,0 +1,1 @@
+return "<img src=\"https://truth.bahamut.com.tw/s01/202012/8948633606a84dd41434d602cb66ba50.JPG?w=300\">"
